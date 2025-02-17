@@ -11,7 +11,8 @@ The main goal of the QiMeng-Team is to deeply integrate the knowledge of the sof
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The QiMeng-GEMM framework enables large language models to understand the characteristics of different hardware architectures and automatically search for optimized GEMM combinations. A large number of experiments have proven that it demonstrates outstanding performance in automatically generating optimized GEMM code. It can significantly boost performance, shorten the development cycle, and reduce costs, bringing remarkable benefits to the development of related applications in the RISC-V ecosystem.
+你好
 
 {%
   include button.html
