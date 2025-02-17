@@ -3,7 +3,7 @@
 
 # QiMeng-Team's Website
 
-An engaging 1-3 sentence description of your lab.
+The main goal of the QiMeng-Team is to deeply integrate the knowledge of the software development field with large model technologies, explore new paradigms for software development, and achieve the automatic generation of typical basic software and application software with high performance and high quality. This is expected to significantly improve the efficiency of software development and efficiently support the construction of the software ecosystem for new processors such as RISC-V.
 
 {% include section.html %}
 
