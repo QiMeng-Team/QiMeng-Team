@@ -56,3 +56,24 @@ QMD-Bench 基准测试评估跨架构高性能库迁移的功能正确性与性�
   text=text
 %}
 
+{% capture text %}
+
+QiMeng-GEMM Agent is an intelligent tool specialized in generating high-performance matrix multiplication code. It deeply supports various hardware architectures and significantly enhances developers' efficiency while improving code runtime performance by automatically generating optimized matrix multiplication code.
+
+QiMeng-GEMM Agent 是一款专注于高性能矩阵乘法代码生成的智能工具，能够深度适配各类硬件架构，通过自动化生成优化后的矩阵乘法代码，为开发者大幅提升开发效率与代码运行性能。
+
+[QiMeng-GEMM Agent Website](http://180.163.192.105:8082/)
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/qimeng-tools.png"
+  link="projects"
+  title="Our Tools（自动生成工具发布）"
+  flip=true
+  style="bare"
+  text=text
+%}
+
