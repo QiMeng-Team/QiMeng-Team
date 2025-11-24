@@ -43,14 +43,6 @@ QMD-Bench 基准测试评估跨架构高性能库迁移的功能正确性与性�
 
 [QMD-Bench——智能体驱动的跨架构代码迁移Benchmark](https://github.com/breezejh/QMD-bench)
 
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {% endcapture %}
 
