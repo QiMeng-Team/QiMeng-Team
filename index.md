@@ -18,6 +18,9 @@ The QiMeng-GEMM framework enables LLMs to understand the characteristics of diff
 
 QiMeng-GEMM框架能让大语言模型理解不同硬件架构特征自动搜索GEMM优化组合，经大量实验证明其在自动生成优化GEMM代码方面性能卓越，大幅提升性能、缩短开发周期并降低成本，为RISC - V生态下相关应用开发带来显著收益。
 
+[QiMeng-GEMM Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34461)
+[QiMeng-TensorOp Paper](https://arxiv.org/abs/2505.06302)
+
 {%
   include button.html
   link="research"
@@ -39,7 +42,11 @@ QiMeng-GEMM框架能让大语言模型理解不同硬件架构特征自动搜索
 
 {% capture text %}
 
-1111
+This QMD-Bench benchmark evaluates both functional correctness and performance of high-performance library migration across architectures, providing a comprehensive assessment of migration effectiveness and efficiency.
+
+QMD-Bench 基准测试评估跨架构高性能库迁移的功能正确性与性能表现，为迁移的有效性与效率提供全面评估。
+
+[QMD-Bench——智能体驱动的跨架构代码迁移Benchmark](https://github.com/breezejh/QMD-bench)
 
 {%
   include button.html
