@@ -48,7 +48,7 @@ QMD-Bench 基准测试评估跨架构高性能库迁移的功能正确性与性�
 
 {%
   include feature.html
-  image="images/QMD-Bench.png"
+  image="images/QMD-Bench.jpg"
   link="https://github.com/breezejh/QMD-bench"
   title="Our Bechmark（评测集发布）"
   flip=true
