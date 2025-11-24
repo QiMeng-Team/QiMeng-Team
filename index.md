@@ -24,14 +24,6 @@ QiMeng-GEMM框架能让大语言模型理解不同硬件架构特征自动搜索
 
 [QiMeng-Attention Paper Website](https://github.com/Chris-Chow/QiMeng-Attention)
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {% endcapture %}
 
