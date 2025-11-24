@@ -19,6 +19,7 @@ The QiMeng-GEMM framework enables LLMs to understand the characteristics of diff
 QiMeng-GEMM框架能让大语言模型理解不同硬件架构特征自动搜索GEMM优化组合，经大量实验证明其在自动生成优化GEMM代码方面性能卓越，大幅提升性能、缩短开发周期并降低成本，为RISC - V生态下相关应用开发带来显著收益。
 
 [QiMeng-GEMM Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34461)
+
 [QiMeng-TensorOp Paper](https://arxiv.org/abs/2505.06302)
 
 {%
