@@ -30,7 +30,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   link="https://www.google.com/maps"
 %}
 
-{% include section.html %}
+<!-- {% include section.html %} -->
 
 {% capture col1 %}
 
