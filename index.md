@@ -33,7 +33,7 @@ QiMeng-GEMM框架能让大语言模型理解不同硬件架构特征自动搜索
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our Research（学术成果）"
   text=text
 %}
 
@@ -56,7 +56,7 @@ QiMeng-GEMM框架能让大语言模型理解不同硬件架构特征自动搜索
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Bechmark（评测集发布）"
   flip=true
   style="bare"
   text=text
