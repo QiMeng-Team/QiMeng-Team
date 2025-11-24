@@ -1,11 +1,11 @@
 ---
 ---
 
-# QiMeng-Team's Website（QiMeng团队）
+# QiMeng-Intelligence Computing Group's Website（QiMeng智能计算团队）
 
-The main goal of the QiMeng-Team is to deeply integrate the knowledge of the software development field with large model technologies, explore new paradigms for software development, and achieve the automatic generation of typical basic software and application software with high performance and high quality. This is expected to significantly improve the efficiency of software development and efficiently support the construction of the software ecosystem for new processors such as RISC-V.
+The main goal of the QiMeng-Intelligence Computing Group is to deeply integrate the knowledge of the software development field with large model technologies, explore new paradigms for software development, and achieve the automatic generation of typical basic software and application software with high performance and high quality. This is expected to significantly improve the efficiency of software development and efficiently support the construction of the software ecosystem for new processors such as RISC-V.
 
-QiMeng-Team的主要目标是深度融合软件开发领域知识与大模型技术，探索软件开发新范式，实现高性能高质量的典型基础软件和应用软件的自动生成，以期大幅度提升软件开发效率，高效支持国产处理器的软件生态构建。
+QiMeng智能计算团队的主要目标是深度融合软件开发领域知识与大模型技术，探索软件开发新范式，实现高性能高质量的典型基础软件和应用软件的自动生成，以期大幅度提升软件开发效率，高效支持国产处理器的软件生态构建。
 
 
 {% include section.html %}
