@@ -37,7 +37,7 @@ QiMeng-GEMM框架能让大语言模型理解不同硬件架构特征自动搜索
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/qimeng-gemm.png"
   link="research"
   title="Our Research（学术成果）"
   text=text
@@ -64,7 +64,7 @@ QMD-Bench 基准测试评估跨架构高性能库迁移的功能正确性与性�
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/QMD-Bench.png"
   link="projects"
   title="Our Bechmark（评测集发布）"
   flip=true
