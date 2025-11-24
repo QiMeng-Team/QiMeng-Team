@@ -30,7 +30,7 @@ QiMeng-GEMM框架能让大语言模型理解不同硬件架构特征自动搜索
 {%
   include feature.html
   image="images/qimeng-gemm.png"
-  link="research"
+  link="https://github.com/Chris-Chow/QiMeng-GEMM"
   title="Our Research（学术成果）"
   text=text
 %}
@@ -49,7 +49,7 @@ QMD-Bench 基准测试评估跨架构高性能库迁移的功能正确性与性�
 {%
   include feature.html
   image="images/QMD-Bench.png"
-  link="projects"
+  link="https://github.com/breezejh/QMD-bench"
   title="Our Bechmark（评测集发布）"
   flip=true
   style="bare"
@@ -70,7 +70,7 @@ QiMeng-GEMM Agent 是一款专注于高性能矩阵乘法代码生成的智能�
 {%
   include feature.html
   image="images/qimeng-tools.png"
-  link="projects"
+  link="http://180.163.192.105:8082/"
   title="Our Tools（自动生成工具发布）"
   flip=true
   style="bare"
