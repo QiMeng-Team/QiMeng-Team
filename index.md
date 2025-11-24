@@ -1,7 +1,7 @@
 ---
 ---
 
-# QiMeng-Team's Website
+# QiMeng-Team's Website（QiMeng团队）
 
 The main goal of the QiMeng-Team is to deeply integrate the knowledge of the software development field with large model technologies, explore new paradigms for software development, and achieve the automatic generation of typical basic software and application software with high performance and high quality. This is expected to significantly improve the efficiency of software development and efficiently support the construction of the software ecosystem for new processors such as RISC-V.
 
@@ -10,7 +10,7 @@ QiMeng-Team的主要目标是深度融合软件开发领域知识与大模型技
 
 {% include section.html %}
 
-## Highlights
+## Highlights（亮点成果）
 
 {% capture text %}
 
@@ -39,7 +39,7 @@ QiMeng-GEMM框架能让大语言模型理解不同硬件架构特征自动搜索
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+1111
 
 {%
   include button.html
@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+222
 
 {%
   include button.html
