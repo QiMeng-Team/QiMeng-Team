@@ -15,21 +15,21 @@
 <header class="background" style="--image: url('{{ image | relative_url | uri_escape }}')" {% if dark==true or
   dark==false %} data-dark="{{ dark }}" {% endif %} {% if page.url=="/" %} data-big {% endif %}>
   <a href="{{ " /" | relative_url }}" class="home">
+    {% if iscas_logo %}
+    <span class="logo iscas-logo">
+      {% if iscas_svg %}
+      {{ iscas_svg | file_read }}
+      {% else %}
+      <img src="{{ iscas_logo | relative_url | uri_escape }}" alt="iscas logo">
+      {% endif %}
+    </span>
+    {% endif %}
     {% if logo %}
     <span class="logo">
       {% if svg %}
       {{ svg | file_read }}
       {% else %}
       <img src="{{ logo | relative_url | uri_escape }}" alt="logo">
-      {% endif %}
-    </span>
-    {% endif %}
-    {% if iscas_logo %}
-    <span class="logo iscas-logo"> {# 为第二个logo添加一个额外的class，便于单独设置样式 #}
-      {% if iscas_svg %}
-      {{ iscas_svg | file_read }}
-      {% else %}
-      <img src="{{ iscas_logo | relative_url | uri_escape }}" alt="iscas logo">
       {% endif %}
     </span>
     {% endif %}
